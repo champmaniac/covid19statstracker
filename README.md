@@ -1,1 +1,1 @@
-### `https://covid19statstracking.netlify.app/`
+### https://covid19statstracking.netlify.app/
